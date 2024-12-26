@@ -1,3 +1,5 @@
+# 👋 Hi, I'm **Renga Nathan A**  
+### 🚀 MERN Stack Developer | Software Developer  
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/renga-nathan-a-596899226/) 
