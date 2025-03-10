@@ -3,7 +3,7 @@
 ## About Me
 I'm a passionate software developer with expertise in UI/UX design, front-end development, and full-stack technologies. I specialize in building scalable and efficient applications, leveraging various frameworks and technologies to create seamless user experiences.
 
-## Skills & Technologies
+## 🛠 Skills & Technologies
 - **Frontend**: React.js, MUI, Tailwind CSS, React Bootstrap, ShadCN, Vite
 - **Backend**: Node.js, Express.js, Spring Boot
 - **Database**: PostgreSQL, MongoDB
@@ -14,43 +14,43 @@ I'm a passionate software developer with expertise in UI/UX design, front-end de
 - **Mobile Development**: Flutter, Dart, Expo (React Native), GetX
 - **Others**: Magic Labs (Auth), GraphQL, Story Force (personal website)
 
-## Projects & Experience
+## 🚀 Projects & Experience
 
-### Vivant360 - VZee Project (Front-end Developer)
+### [Vivant360 - VZee Project (Front-end Developer)](https://vivant360.com/)
 - Developing and integrating UI/UX components for the insurance industry.
 - Implementing frameworks to enhance user experience and functionality.
 
-### Friends - Chat Application
+### [Friends - Chat Application](https://github.com/Renganathan21/friends-chat-app)
 - Built a real-time chat app with MERN stack & Socket.io.
 - Features include group chat, image sharing, and robust authentication.
 
-### EzyBee - Trading Platform
+### [EzyBee - Trading Platform](https://github.com/Renganathan21/ezybee)
 - Developed a marketplace where users can sell and buy items.
 - Built an admin dashboard for managing transactions and user activities.
 
-### DreamFrame - AI Image Generation
+### [DreamFrame - AI Image Generation](https://github.com/Renganathan21/dreamframe)
 - Created an AI-based application to generate and manipulate images.
 - Implemented additional features like extra option generation and enhancement.
 
-### Custom CRM for Insurance Industry
+### [Custom CRM for Insurance Industry](https://github.com/Renganathan21/insurance-crm)
 - Designed and developed a CRM solution tailored for insurance businesses.
 - Covered frontend, backend, and PostgreSQL integration.
 
-### Paytm-like Bitcoin Transfer App (MERN Stack)
+### [Paytm-like Bitcoin Transfer App (MERN Stack)](https://github.com/Renganathan21/crypto-transfer)
 - Enabled bitcoin transactions via user selection or QR code scanning.
 - Built a secure and scalable payment system.
 
-### Story Force - Personal Website
+### [Story Force - Personal Website](https://storyforce.com/)
 - Designed and developed a personal website showcasing projects and achievements.
 
-### Onboarding App (React.js + ShadCN + Vite)
+### [Onboarding App (React.js + ShadCN + Vite)](https://github.com/Renganathan21/onboarding-app)
 - Created an intuitive onboarding experience for new users.
 - Implemented smooth UI interactions and user-friendly design.
 
-## Achievements
+## 🏆 Achievements
 - **Rising Star Award** at Vivant360 for outstanding contributions.
 
-## Contact
+## 📬 Contact
 - **Email**: sathishsatish2002@gmail.com
 - **GitHub**: [github.com/Renganathan21](https://github.com/Renganathan21)
-- **Portfolio**: [Story Force](https://storyforce.com/)
+- **Portfolio**: [portfolio-nu-nine-65.vercel.app](https://portfolio-nu-nine-65.vercel.app/)
