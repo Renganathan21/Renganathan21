@@ -4,15 +4,35 @@
 I'm a passionate software developer with expertise in UI/UX design, front-end development, and full-stack technologies. I specialize in building scalable and efficient applications, leveraging various frameworks and technologies to create seamless user experiences.
 
 ## 🛠 Skills & Technologies
-- **Frontend**: React.js, MUI, Tailwind CSS, React Bootstrap, ShadCN, Vite
-- **Backend**: Node.js, Express.js, Spring Boot
-- **Database**: PostgreSQL, MongoDB
-- **Authentication**: Keycloak, Firebase (for storage)
-- **DevOps & Deployment**: Docker, Apache NiFi, Vercel, Gitea
-- **Blockchain & Web3**: Cryptocurrency wallet integration, Web3 development
-- **AI & Chatbots**: ChatGPT, Google Dialogflow, BERT model training
-- **Mobile Development**: Flutter, Dart, Expo (React Native), GetX
-- **Others**: Magic Labs (Auth), GraphQL, Story Force (personal website)
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
+  <span style="padding: 8px 12px; background-color: #1976D2; color: white; border-radius: 4px;">React.js</span>
+  <span style="padding: 8px 12px; background-color: #1976D2; color: white; border-radius: 4px;">MUI</span>
+  <span style="padding: 8px 12px; background-color: #1976D2; color: white; border-radius: 4px;">Tailwind CSS</span>
+  <span style="padding: 8px 12px; background-color: #1976D2; color: white; border-radius: 4px;">React Bootstrap</span>
+  <span style="padding: 8px 12px; background-color: #1976D2; color: white; border-radius: 4px;">ShadCN</span>
+  <span style="padding: 8px 12px; background-color: #1976D2; color: white; border-radius: 4px;">Vite</span>
+  <span style="padding: 8px 12px; background-color: #1976D2; color: white; border-radius: 4px;">Node.js</span>
+  <span style="padding: 8px 12px; background-color: #1976D2; color: white; border-radius: 4px;">Express.js</span>
+  <span style="padding: 8px 12px; background-color: #1976D2; color: white; border-radius: 4px;">Spring Boot</span>
+  <span style="padding: 8px 12px; background-color: #1976D2; color: white; border-radius: 4px;">PostgreSQL</span>
+  <span style="padding: 8px 12px; background-color: #1976D2; color: white; border-radius: 4px;">MongoDB</span>
+  <span style="padding: 8px 12px; background-color: #1976D2; color: white; border-radius: 4px;">Keycloak</span>
+  <span style="padding: 8px 12px; background-color: #1976D2; color: white; border-radius: 4px;">Firebase (Storage)</span>
+  <span style="padding: 8px 12px; background-color: #1976D2; color: white; border-radius: 4px;">Docker</span>
+  <span style="padding: 8px 12px; background-color: #1976D2; color: white; border-radius: 4px;">Apache NiFi</span>
+  <span style="padding: 8px 12px; background-color: #1976D2; color: white; border-radius: 4px;">Vercel</span>
+  <span style="padding: 8px 12px; background-color: #1976D2; color: white; border-radius: 4px;">Gitea</span>
+  <span style="padding: 8px 12px; background-color: #1976D2; color: white; border-radius: 4px;">Web3</span>
+  <span style="padding: 8px 12px; background-color: #1976D2; color: white; border-radius: 4px;">ChatGPT</span>
+  <span style="padding: 8px 12px; background-color: #1976D2; color: white; border-radius: 4px;">Google Dialogflow</span>
+  <span style="padding: 8px 12px; background-color: #1976D2; color: white; border-radius: 4px;">BERT Model Training</span>
+  <span style="padding: 8px 12px; background-color: #1976D2; color: white; border-radius: 4px;">Flutter</span>
+  <span style="padding: 8px 12px; background-color: #1976D2; color: white; border-radius: 4px;">Dart</span>
+  <span style="padding: 8px 12px; background-color: #1976D2; color: white; border-radius: 4px;">Expo (React Native)</span>
+  <span style="padding: 8px 12px; background-color: #1976D2; color: white; border-radius: 4px;">GetX</span>
+  <span style="padding: 8px 12px; background-color: #1976D2; color: white; border-radius: 4px;">Magic Labs (Auth)</span>
+  <span style="padding: 8px 12px; background-color: #1976D2; color: white; border-radius: 4px;">GraphQL</span>
+</div>
 
 ## 🚀 Projects & Experience
 
