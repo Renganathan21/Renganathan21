@@ -49,26 +49,11 @@ I'm a passionate software developer with expertise in UI/UX design, front-end de
 - Built a real-time chat app with MERN stack & Socket.io.
 - Features include group chat, image sharing, and robust authentication.
 
-### [EzyBee - Trading Platform](https://github.com/Renganathan21/ezybee)
-- Developed a marketplace where users can sell and buy items.
-- Built an admin dashboard for managing transactions and user activities.
-
-### [DreamFrame - AI Image Generation](https://github.com/Renganathan21/dreamframe)
+### [DreamFrame - AI Image Generation]
 - Created an AI-based application to generate and manipulate images.
 - Implemented additional features like extra option generation and enhancement.
-
-### [Custom CRM for Insurance Industry](https://github.com/Renganathan21/insurance-crm)
-- Designed and developed a CRM solution tailored for insurance businesses.
-- Covered frontend, backend, and PostgreSQL integration.
-
-### [Paytm-like Bitcoin Transfer App (MERN Stack)](https://github.com/Renganathan21/crypto-transfer)
-- Enabled bitcoin transactions via user selection or QR code scanning.
-- Built a secure and scalable payment system.
-
-### [Story Force - Personal Website](https://storyforce.com/)
-- Designed and developed a personal website showcasing projects and achievements.
-
-### [Onboarding App (React.js + ShadCN + Vite)](https://github.com/Renganathan21/onboarding-app)
+- 
+### [Onboarding App (React.js + ShadCN + Vite)]
 - Created an intuitive onboarding experience for new users.
 - Implemented smooth UI interactions and user-friendly design.
 
