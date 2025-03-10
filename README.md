@@ -17,6 +17,8 @@
 ![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=for-the-badge&logo=mui&logoColor=white)  
 ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)  
 
+---
+
 ### **Backend & Database**  
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)  
 ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)  
@@ -28,6 +30,8 @@
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)  
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)  
 
+---
+
 ### **DevOps & Deployment**  
 ![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)  
 ![Vercel](https://img.shields.io/badge/vercel-%23000000.svg?style=for-the-badge&logo=vercel&logoColor=white)  
@@ -37,20 +41,22 @@
 ---
 
 ## 🏆 Featured Projects  
-- [**Friends Chat App**](https://friends-123.netlify.app/) - A real-time chat app built with MERN and Socket.io.  
-- **EzyBee** - A trading platform for buying and selling items, with an admin dashboard.  
-- **Story Force** - A creative storytelling platform for sharing digital content.  
+**Friends Chat App**  
+🔗 [Live Demo](https://friends-123.netlify.app/)  
+A real-time chat app built with MERN and Socket.io.  
+
+**EzyBee**  
+A trading platform for buying and selling items, with an admin dashboard.  
+
+**Story Force**  
+A creative storytelling platform for sharing digital content.  
 
 ---
 
 ## 📊 GitHub Stats  
-<table>
-  <tr>
-    <td><img src="https://github-readme-stats.vercel.app/api?username=Renganathan21&theme=dark&hide_border=false&count_private=true" /></td>
-    <td><img src="https://github-readme-streak-stats.herokuapp.com/?user=Renganathan21&theme=dark&hide_border=false" /></td>
-  </tr>
-</table>  
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Renganathan21&theme=dark&hide_border=false&layout=compact" />  
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Renganathan21&theme=dark&hide_border=false&count_private=true)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Renganathan21&theme=dark&hide_border=false)  
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Renganathan21&theme=dark&hide_border=false&layout=compact)  
 
 ---
 
