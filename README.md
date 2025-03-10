@@ -32,25 +32,12 @@ I'm a passionate software developer with expertise in UI/UX design, front-end de
 ![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white)
 ![Gitea](https://img.shields.io/badge/Gitea-%2344798A.svg?style=plastic&logo=gitea&logoColor=white)
 
-### **Blockchain & Web3**
-![Web3](https://img.shields.io/badge/Web3-%23F16822.svg?style=plastic&logo=ethereum&logoColor=white)
-![Cryptocurrency](https://img.shields.io/badge/Crypto-Wallet-%23000000.svg?style=plastic&logo=bitcoin&logoColor=white)
 
 ### **AI & Chatbots**
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-%2300A67E.svg?style=plastic&logo=openai&logoColor=white)
 ![Google Dialogflow](https://img.shields.io/badge/Dialogflow-%23FF9800.svg?style=plastic&logo=dialogflow&logoColor=white)
 ![BERT](https://img.shields.io/badge/BERT-%236A1B9A.svg?style=plastic&logo=tensorflow&logoColor=white)
 
-### **Mobile Development**
-![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=flutter&logoColor=white)
-![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white)
-![React Native](https://img.shields.io/badge/React_Native-%2361DAFB.svg?style=plastic&logo=react&logoColor=white)
-![GetX](https://img.shields.io/badge/GetX-%23FFCA28.svg?style=plastic&logo=dart&logoColor=black)
-
-### **Other Technologies**
-![Magic Labs](https://img.shields.io/badge/Magic_Labs-%23FF6600.svg?style=plastic&logo=magic-labs&logoColor=white)
-![GraphQL](https://img.shields.io/badge/GraphQL-%23E10098.svg?style=plastic&logo=graphql&logoColor=white)
-![Story Force](https://img.shields.io/badge/Story_Force-%23FF5722.svg?style=plastic&logoColor=white)
 
 ## 🚀 Projects & Experience
 
