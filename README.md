@@ -4,35 +4,53 @@
 I'm a passionate software developer with expertise in UI/UX design, front-end development, and full-stack technologies. I specialize in building scalable and efficient applications, leveraging various frameworks and technologies to create seamless user experiences.
 
 ## 🛠 Skills & Technologies
-<div style="display: flex; flex-wrap: wrap; gap: 10px;">
-  <span style="padding: 8px 12px; background-color: #1976D2; color: white; border-radius: 4px;">React.js</span>
-  <span style="padding: 8px 12px; background-color: #1976D2; color: white; border-radius: 4px;">MUI</span>
-  <span style="padding: 8px 12px; background-color: #1976D2; color: white; border-radius: 4px;">Tailwind CSS</span>
-  <span style="padding: 8px 12px; background-color: #1976D2; color: white; border-radius: 4px;">React Bootstrap</span>
-  <span style="padding: 8px 12px; background-color: #1976D2; color: white; border-radius: 4px;">ShadCN</span>
-  <span style="padding: 8px 12px; background-color: #1976D2; color: white; border-radius: 4px;">Vite</span>
-  <span style="padding: 8px 12px; background-color: #1976D2; color: white; border-radius: 4px;">Node.js</span>
-  <span style="padding: 8px 12px; background-color: #1976D2; color: white; border-radius: 4px;">Express.js</span>
-  <span style="padding: 8px 12px; background-color: #1976D2; color: white; border-radius: 4px;">Spring Boot</span>
-  <span style="padding: 8px 12px; background-color: #1976D2; color: white; border-radius: 4px;">PostgreSQL</span>
-  <span style="padding: 8px 12px; background-color: #1976D2; color: white; border-radius: 4px;">MongoDB</span>
-  <span style="padding: 8px 12px; background-color: #1976D2; color: white; border-radius: 4px;">Keycloak</span>
-  <span style="padding: 8px 12px; background-color: #1976D2; color: white; border-radius: 4px;">Firebase (Storage)</span>
-  <span style="padding: 8px 12px; background-color: #1976D2; color: white; border-radius: 4px;">Docker</span>
-  <span style="padding: 8px 12px; background-color: #1976D2; color: white; border-radius: 4px;">Apache NiFi</span>
-  <span style="padding: 8px 12px; background-color: #1976D2; color: white; border-radius: 4px;">Vercel</span>
-  <span style="padding: 8px 12px; background-color: #1976D2; color: white; border-radius: 4px;">Gitea</span>
-  <span style="padding: 8px 12px; background-color: #1976D2; color: white; border-radius: 4px;">Web3</span>
-  <span style="padding: 8px 12px; background-color: #1976D2; color: white; border-radius: 4px;">ChatGPT</span>
-  <span style="padding: 8px 12px; background-color: #1976D2; color: white; border-radius: 4px;">Google Dialogflow</span>
-  <span style="padding: 8px 12px; background-color: #1976D2; color: white; border-radius: 4px;">BERT Model Training</span>
-  <span style="padding: 8px 12px; background-color: #1976D2; color: white; border-radius: 4px;">Flutter</span>
-  <span style="padding: 8px 12px; background-color: #1976D2; color: white; border-radius: 4px;">Dart</span>
-  <span style="padding: 8px 12px; background-color: #1976D2; color: white; border-radius: 4px;">Expo (React Native)</span>
-  <span style="padding: 8px 12px; background-color: #1976D2; color: white; border-radius: 4px;">GetX</span>
-  <span style="padding: 8px 12px; background-color: #1976D2; color: white; border-radius: 4px;">Magic Labs (Auth)</span>
-  <span style="padding: 8px 12px; background-color: #1976D2; color: white; border-radius: 4px;">GraphQL</span>
-</div>
+
+### **Frontend**
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=plastic&logo=react&logoColor=white)
+![MUI](https://img.shields.io/badge/MUI-%230081CB.svg?style=plastic&logo=mui&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-%2306B6D4.svg?style=plastic&logo=tailwind-css&logoColor=white)
+![React Bootstrap](https://img.shields.io/badge/React_Bootstrap-%23563D7C.svg?style=plastic&logo=bootstrap&logoColor=white)
+![ShadCN](https://img.shields.io/badge/ShadCN-%23000000.svg?style=plastic&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-%23646CFF.svg?style=plastic&logo=vite&logoColor=white)
+
+### **Backend**
+![Node.js](https://img.shields.io/badge/Node.js-%23339933.svg?style=plastic&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=plastic&logo=express&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-%236DB33F.svg?style=plastic&logo=spring-boot&logoColor=white)
+
+### **Database**
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23336791.svg?style=plastic&logo=postgresql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-%2347A248.svg?style=plastic&logo=mongodb&logoColor=white)
+
+### **Authentication**
+![Keycloak](https://img.shields.io/badge/Keycloak-%230007C2.svg?style=plastic&logo=keycloak&logoColor=white)
+![Firebase](https://img.shields.io/badge/Firebase-%23FFCA28.svg?style=plastic&logo=firebase&logoColor=black)
+
+### **DevOps & Deployment**
+![Docker](https://img.shields.io/badge/Docker-%232496ED.svg?style=plastic&logo=docker&logoColor=white)
+![Apache NiFi](https://img.shields.io/badge/Apache_NiFi-%23005F9E.svg?style=plastic&logo=apache-nifi&logoColor=white)
+![Vercel](https://img.shields.io/badge/Vercel-%23000000.svg?style=plastic&logo=vercel&logoColor=white)
+![Gitea](https://img.shields.io/badge/Gitea-%2344798A.svg?style=plastic&logo=gitea&logoColor=white)
+
+### **Blockchain & Web3**
+![Web3](https://img.shields.io/badge/Web3-%23F16822.svg?style=plastic&logo=ethereum&logoColor=white)
+![Cryptocurrency](https://img.shields.io/badge/Crypto-Wallet-%23000000.svg?style=plastic&logo=bitcoin&logoColor=white)
+
+### **AI & Chatbots**
+![ChatGPT](https://img.shields.io/badge/ChatGPT-%2300A67E.svg?style=plastic&logo=openai&logoColor=white)
+![Google Dialogflow](https://img.shields.io/badge/Dialogflow-%23FF9800.svg?style=plastic&logo=dialogflow&logoColor=white)
+![BERT](https://img.shields.io/badge/BERT-%236A1B9A.svg?style=plastic&logo=tensorflow&logoColor=white)
+
+### **Mobile Development**
+![Flutter](https://img.shields.io/badge/Flutter-%2302569B.svg?style=plastic&logo=flutter&logoColor=white)
+![Dart](https://img.shields.io/badge/Dart-%230175C2.svg?style=plastic&logo=dart&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-%2361DAFB.svg?style=plastic&logo=react&logoColor=white)
+![GetX](https://img.shields.io/badge/GetX-%23FFCA28.svg?style=plastic&logo=dart&logoColor=black)
+
+### **Other Technologies**
+![Magic Labs](https://img.shields.io/badge/Magic_Labs-%23FF6600.svg?style=plastic&logo=magic-labs&logoColor=white)
+![GraphQL](https://img.shields.io/badge/GraphQL-%23E10098.svg?style=plastic&logo=graphql&logoColor=white)
+![Story Force](https://img.shields.io/badge/Story_Force-%23FF5722.svg?style=plastic&logoColor=white)
 
 ## 🚀 Projects & Experience
 
