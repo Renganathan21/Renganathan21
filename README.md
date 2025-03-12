@@ -40,9 +40,9 @@ I'm a passionate software developer with expertise in UI/UX design, front-end de
 
 
 ## 🔥 Streaks & Contributions
-- **GitHub Streak:** ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Renganathan21&theme=dark)
-- **GitHub Stats:** ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Renganathan21&show_icons=true&theme=dark)
-- **Top Languages:** ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Renganathan21&layout=compact&theme=dark)
+ ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Renganathan21&theme=dark)
+ ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Renganathan21&show_icons=true&theme=dark)
+ ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Renganathan21&layout=compact&theme=dark)
 
 
 ## 🏆 Achievements
