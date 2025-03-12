@@ -39,23 +39,11 @@ I'm a passionate software developer with expertise in UI/UX design, front-end de
 ![BERT](https://img.shields.io/badge/BERT-%236A1B9A.svg?style=plastic&logo=tensorflow&logoColor=white)
 
 
-## 🚀 Projects & Experience
+## 🔥 Streaks & Contributions
+- **GitHub Streak:** ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Renganathan21&theme=dark)
+- **GitHub Stats:** ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Renganathan21&show_icons=true&theme=dark)
+- **Top Languages:** ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Renganathan21&layout=compact&theme=dark)
 
-### [Vivant360 - VZee Project (Front-end Developer)](https://vivant360.com/)
-- Developing and integrating UI/UX components for the insurance industry.
-- Implementing frameworks to enhance user experience and functionality.
-
-### [Friends - Chat Application](https://github.com/Renganathan21/friends-chat-app)
-- Built a real-time chat app with MERN stack & Socket.io.
-- Features include group chat, image sharing, and robust authentication.
-
-### [DreamFrame - AI Image Generation]
-- Created an AI-based application to generate and manipulate images.
-- Implemented additional features like extra option generation and enhancement.
-- 
-### [Onboarding App (React.js + ShadCN + Vite)]
-- Created an intuitive onboarding experience for new users.
-- Implemented smooth UI interactions and user-friendly design.
 
 ## 🏆 Achievements
 - **Rising Star Award** at Vivant360 for outstanding contributions.
